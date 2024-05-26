@@ -24,4 +24,4 @@ In this project, SQL queries are used for:
 
 ## Usage
 
-These SQL queries can be executed directly in a MySQL database using an appropriate SQL client. When executing, be careful not to lose important data, especially when deleting or modifying data.
+These SQL queries can be executed directly in a MySQL database using an appropriate SQL client.
